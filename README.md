@@ -8,15 +8,7 @@ React KeepClone is a web application built using React.js that serves as a clone
 
 ## Features
 
-- Create, edit, and delete notes.
-- Organize notes with colors and categories.
-- Interactive checklists and to-do lists.
-- Set reminders and alarms for notes.
-- Responsive design for various devices.
-- Drag-and-drop functionality for note organization.
-- Powerful search functionality.
-- Collaborative sharing and real-time collaboration.
-- Secure and private data storage.
+- Create and delete notes
 
 ## Demo
 
